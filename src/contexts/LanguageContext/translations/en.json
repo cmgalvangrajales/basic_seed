@@ -1,0 +1,7 @@
+{
+  "containers.Header.title": "SEED",
+  "containers.NotFound.title": "Page not found",
+  "containers.NotFound.description": "Sorry, we couldn’t find the page you’re looking for.",
+  "containers.Home.notFound": "Items not found",
+  "containers.Loading.title": "Loading"
+}
